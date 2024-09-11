@@ -84,7 +84,7 @@ La estructura del proyecto está organizada de la siguiente manera:
     /types
         index.ts      # Definición de tipos en TypeScript
 /app
-    /pages
+    /autos
         page.tsx      # Página principal del CRUD de autos
   /styles
     globals.css   # Estilos globales, incluyendo Tailwind CSS
