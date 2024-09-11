@@ -78,12 +78,14 @@ Para utilizar **Tailwind CSS** en el proyecto, seguimos los siguientes pasos:
 La estructura del proyecto está organizada de la siguiente manera:
 
 ```
-/src
-  /lib
-    store.ts      # Estado global usando Zustand
-    types.ts      # Definición de tipos en TypeScript
-  /pages
-    auto.tsx      # Página principal del CRUD de autos
+/lib
+    /store
+        index.ts      # Estado global usando Zustand
+    /types
+        index.ts      # Definición de tipos en TypeScript
+/app
+    /pages
+        page.tsx      # Página principal del CRUD de autos
   /styles
     globals.css   # Estilos globales, incluyendo Tailwind CSS
 ```

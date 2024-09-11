@@ -14,7 +14,7 @@ export default function AutoPage() {
     const selectAutoForEdit = useAutoState((state) => state.selectAutoForEdit);
 
     return (
-        <div className="max-w-xl mx-auto p-6 text-black">
+        <div className="max-w-xl mx-auto p-6">
             <h2 className="text-2xl font-bold mb-4">Lista de Autos</h2>
 
             <ul className="space-y-4 mb-6">
