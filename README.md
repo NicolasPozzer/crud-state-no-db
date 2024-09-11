@@ -16,8 +16,8 @@ Este proyecto es una aplicación sencilla de gestión de autos donde se pueden *
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/cr.git
-cd tu_repositorio
+git clone https://github.com/NicolasPozzer/crud-state-no-db.git
+cd crud-state-no-db
 ```
 
 ### Paso 2: Instalar dependencias
